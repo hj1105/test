@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1613305904 source:c:\a\sad\main.cpp
+	"declaration.h"
+
+1613305905 c:\a\sad\declaration.h
+	<iostream>
+	<algorithm>
+	<vector>
+	<string>
+	<random>
+	<conio.h>
+	<windows.h>
+	<ctime>
+	<set>
+	<cctype>
+
